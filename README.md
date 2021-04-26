@@ -7,6 +7,7 @@ The Game scripts can be copied and pasted for diferent games, The only thing you
 ``
 legendary launch *Game id*
 ``
+Or use the Bat helper.py script.
 
 Replace the game id with the corresponding id.
 

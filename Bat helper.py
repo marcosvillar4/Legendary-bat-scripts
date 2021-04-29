@@ -8,13 +8,7 @@ print("Input the game id (Use the installed games script)")
 gameid = input()
 p = Path(game + ".bat")
 p.write_text(
-
-    "title Launching "
-    + game
-    + " \recho Launching "
-    + game
-    + " \rlegendary launch "
-    + gameid
+    "legendary launch "+ gameid
 )
 
 os.system("pause")

@@ -1,3 +1,3 @@
 title Installed Games
-legendary list-installed
+legendary list-installed --check-updates
 pause
